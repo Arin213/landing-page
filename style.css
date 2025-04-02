@@ -76,6 +76,7 @@ h3 {
 /* setting image with the height, margin top and width  */
 img {
     border: 1px solid #3882f6;
+    border-radius: 4px;
     margin-top: 20px;
     height: 250px;
     width: 550px;
